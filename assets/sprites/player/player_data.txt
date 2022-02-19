@@ -1,0 +1,6 @@
+img_dimension : 16
+base_hb : 8
+hb_width : 10
+hb_height : 16
+hb_padding_top : 4
+hb_padding_top : 7
